@@ -2,8 +2,8 @@
 	"name" : "obfuscator",
 	"version" : 1,
 	"creationdate" : 3669983427,
-	"modificationdate" : 3670245793,
-	"viewrect" : [ 25.0, 263.0, 425.0, 555.0 ],
+	"modificationdate" : 3670254802,
+	"viewrect" : [ 155.0, 268.0, 425.0, 555.0 ],
 	"autoorganize" : 1,
 	"hideprojectwindow" : 0,
 	"showdependencies" : 1,
@@ -20,31 +20,21 @@
 				"kind" : "patcher",
 				"local" : 1
 			}
+,
+			"randomizer.maxpat" : 			{
+				"kind" : "patcher",
+				"local" : 1
+			}
 
 		}
 ,
 		"media" : 		{
-			"barn.jpg" : 			{
-				"kind" : "imagefile",
-				"local" : 1
-			}
-,
 			"shobana_lg.jpg" : 			{
 				"kind" : "imagefile",
 				"local" : 1
 			}
 ,
-			"M2007_122-SF2126_013.jpg" : 			{
-				"kind" : "imagefile",
-				"local" : 1
-			}
-,
-			"images.jpg" : 			{
-				"kind" : "imagefile",
-				"local" : 1
-			}
-,
-			"National-Portrait-Gallery-0764.jpg" : 			{
+			"barn.jpg" : 			{
 				"kind" : "imagefile",
 				"local" : 1
 			}
@@ -69,7 +59,7 @@
 				"local" : 1
 			}
 ,
-			"SAAM-2002.23_1.jpg" : 			{
+			"images.jpg" : 			{
 				"kind" : "imagefile",
 				"local" : 1
 			}
@@ -88,11 +78,31 @@
 				"kind" : "imagefile",
 				"local" : 1
 			}
+,
+			"National-Portrait-Gallery-0764.jpg" : 			{
+				"kind" : "imagefile",
+				"local" : 1
+			}
+,
+			"M2007_122-SF2126_013.jpg" : 			{
+				"kind" : "imagefile",
+				"local" : 1
+			}
+,
+			"SAAM-2002.23_1.jpg" : 			{
+				"kind" : "imagefile",
+				"local" : 1
+			}
 
 		}
 ,
 		"other" : 		{
 			"DATA.coll" : 			{
+				"kind" : "file",
+				"local" : 1
+			}
+,
+			"STUDENTS.coll" : 			{
 				"kind" : "file",
 				"local" : 1
 			}
