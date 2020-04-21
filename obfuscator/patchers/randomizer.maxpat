@@ -10,7 +10,7 @@
 		}
 ,
 		"classnamespace" : "box",
-		"rect" : [ 422.0, 115.0, 570.0, 686.0 ],
+		"rect" : [ 680.0, 137.0, 570.0, 686.0 ],
 		"bglocked" : 0,
 		"openinpresentation" : 0,
 		"default_fontsize" : 12.0,
@@ -45,7 +45,7 @@
 					"numinlets" : 2,
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
-					"patching_rect" : [ 90.0, 655.0, 135.0, 20.0 ],
+					"patching_rect" : [ 90.0, 630.0, 135.0, 20.0 ],
 					"text" : "Peter"
 				}
 
@@ -105,7 +105,7 @@
 					"numinlets" : 2,
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
-					"patching_rect" : [ 90.0, 630.0, 135.0, 20.0 ],
+					"patching_rect" : [ 90.0, 605.0, 135.0, 20.0 ],
 					"text" : "Oliver"
 				}
 
@@ -117,7 +117,7 @@
 					"numinlets" : 2,
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
-					"patching_rect" : [ 90.0, 605.0, 135.0, 20.0 ],
+					"patching_rect" : [ 90.0, 580.0, 135.0, 20.0 ],
 					"text" : "Nathanael"
 				}
 
@@ -129,7 +129,7 @@
 					"numinlets" : 2,
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
-					"patching_rect" : [ 90.0, 580.0, 135.0, 20.0 ],
+					"patching_rect" : [ 90.0, 555.0, 135.0, 20.0 ],
 					"text" : "Najiba"
 				}
 
@@ -141,7 +141,7 @@
 					"numinlets" : 2,
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
-					"patching_rect" : [ 90.0, 555.0, 135.0, 20.0 ],
+					"patching_rect" : [ 90.0, 530.0, 135.0, 20.0 ],
 					"text" : "Jack"
 				}
 
@@ -153,7 +153,7 @@
 					"numinlets" : 2,
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
-					"patching_rect" : [ 90.0, 530.0, 135.0, 20.0 ],
+					"patching_rect" : [ 90.0, 505.0, 135.0, 20.0 ],
 					"text" : "Darran"
 				}
 
@@ -165,7 +165,7 @@
 					"numinlets" : 2,
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
-					"patching_rect" : [ 90.0, 505.0, 135.0, 20.0 ],
+					"patching_rect" : [ 90.0, 480.0, 135.0, 20.0 ],
 					"text" : "Aurora"
 				}
 
@@ -177,7 +177,7 @@
 					"numinlets" : 2,
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
-					"patching_rect" : [ 90.0, 480.0, 135.0, 20.0 ],
+					"patching_rect" : [ 90.0, 455.0, 135.0, 20.0 ],
 					"text" : "Adam"
 				}
 
@@ -606,6 +606,7 @@
 		"styles" : [ 			{
 				"name" : "cassiel",
 				"default" : 				{
+					"fontname" : [ "InputMono" ],
 					"bgfillcolor" : 					{
 						"type" : "gradient",
 						"color1" : [ 0.376471, 0.384314, 0.4, 1.0 ],
@@ -615,7 +616,6 @@
 						"proportion" : 0.39
 					}
 ,
-					"fontname" : [ "InputMono" ],
 					"bgcolor" : [ 0.163647, 0.174699, 0.17409, 1.0 ]
 				}
 ,
