@@ -10,7 +10,7 @@
 		}
 ,
 		"classnamespace" : "box",
-		"rect" : [ 207.0, 168.0, 765.0, 633.0 ],
+		"rect" : [ 547.0, 171.0, 765.0, 633.0 ],
 		"bglocked" : 0,
 		"openinpresentation" : 0,
 		"default_fontsize" : 12.0,
@@ -39,6 +39,18 @@
 		"subpatcher_template" : "cassiel",
 		"assistshowspatchername" : 0,
 		"boxes" : [ 			{
+				"box" : 				{
+					"id" : "obj-2",
+					"maxclass" : "newobj",
+					"numinlets" : 1,
+					"numoutlets" : 2,
+					"outlettype" : [ "jit_matrix", "" ],
+					"patching_rect" : [ 42.0, 235.0, 505.0, 20.0 ],
+					"text" : "jit.gl.text @mode 3d @lighting_enable 1 @depth 1 @align 1 @text Hello"
+				}
+
+			}
+, 			{
 				"box" : 				{
 					"id" : "obj-29",
 					"maxclass" : "newobj",
@@ -465,8 +477,8 @@
 , 			{
 				"name" : "cassiel",
 				"default" : 				{
-					"fontname" : [ "InputMono" ],
 					"bgcolor" : [ 0.163647, 0.174699, 0.17409, 1.0 ],
+					"fontname" : [ "InputMono" ],
 					"bgfillcolor" : 					{
 						"type" : "gradient",
 						"color1" : [ 0.376471, 0.384314, 0.4, 1.0 ],
@@ -484,9 +496,9 @@
 , 			{
 				"name" : "cassiel.attrui",
 				"default" : 				{
-					"textcolor_inverse" : [ 0.221674, 0.25681, 0.29304, 1.0 ],
+					"accentcolor" : [ 0.996078431372549, 0.8, 0.8, 1.0 ],
 					"bgcolor" : [ 0.614285, 0.654518, 0.758022, 1.0 ],
-					"accentcolor" : [ 0.996078431372549, 0.8, 0.8, 1.0 ]
+					"textcolor_inverse" : [ 0.221674, 0.25681, 0.29304, 1.0 ]
 				}
 ,
 				"parentstyle" : "",
